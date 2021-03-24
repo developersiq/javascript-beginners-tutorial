@@ -157,7 +157,7 @@ Section 01. Course Introduction
 01.01. Welcome
 ---------------------
 
-Hi All, I'm **`Dinanath Jayaswal, Senior UI/Web Developer and Adobe Certified Expert Professional`**, I wanna welcome you to JavaScript for Beginners. In this course, I will take you through with the ins and outs of learning JavaScript. This course will help you to learn the fundamentals of programming with JavaScript scripting language, from the basics to advanced topics step-by-step.
+Hi All, In this course, I will take you through with the ins and outs of learning JavaScript. This course will help you to learn the fundamentals of programming with JavaScript scripting language, from the basics to advanced topics step-by-step.
 
 01.02. Who is this for? Audience
 ---------------------
